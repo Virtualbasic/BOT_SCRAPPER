@@ -8,4 +8,4 @@ I leave the project for your use and any modification. Include your bot's token 
 
 example 
 
-![alt text](https://github.com/Virtualbasic/BOT_SCRAPPER/example.png?raw=true)
+![alt text](https://github.com/Virtualbasic/BOT_SCRAPPER/example.jpg?raw=true)
